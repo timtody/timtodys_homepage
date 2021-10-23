@@ -4,7 +4,8 @@ const Page = () => {
   return (
     <Container>
       <Box borderRadius="lg" bg="red" p={3} mb={6} align="center">
-        Hello, I'm a PhD candidate in machine learning at Flowers in Bordeaux!
+        Hello, I&apos;m a PhD candidate in machine learning at Flowers in
+        Bordeaux!
       </Box>
 
       <Box display={{ md: 'flex' }}>
